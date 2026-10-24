@@ -29,7 +29,7 @@ A single Python file that turns a terminal pane into a small living world. A tre
 - **Decorations.** A hollow with an owl, ivy, a swing, a treehouse. They appear as the tree ages and vanish with the branch they hang from.
 
 <div align="center">
-<img src="docs/species.png" alt="oak, sakura, birch, willow, pine, apple, acacia" width="860">
+<img src="docs/gallery.png" alt="sakura in spring, birch at dusk, pine at night, willow in rain, oak in fog, apple at sunset" width="900">
 </div>
 
 ## Install
